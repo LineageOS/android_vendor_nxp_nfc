@@ -6,7 +6,7 @@
 
 ifeq (,$(wildcard vendor/nxp/opensource))
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/nxp/nfc/extns/intf/nxpnfclegacy
+    vendor/nxp/nfc
 endif
 
 NXP_NFC_HARDWARE := PN81T
