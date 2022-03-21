@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a0cb4482_d7cfb594",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2022-03-21T20:51:37Z",
+      "side": 1,
+      "message": "Previously it was failing:\n\n\u003e  build/make/core/base_rules.mk:335: error: vendor/nxp/opensource/pn5xx/halimpl/halimpl/src/halLibnfc/src: MODULE.TARGET.SHARED_LIBRARIES.hal_libnfc already defined by vendor/nxp/nfc/halimpl/src/halLibnfc/src.",
+      "revId": "5e91132d0f7193e515e680bb4c6047d67556a432",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
